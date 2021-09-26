@@ -26,7 +26,7 @@
     "eslint": "^6.0.1",
     "hexo-baidu-url-submit": "0.0.6",
     "hexo-generator-baidu-sitemap": "^0.1.6",
-    "hexo-generator-feed": "^1.2.2",
+    "hexo-generator-feed": "^3.0.0",
     "hexo-generator-search": "^2.4.0",
     "hexo-generator-sitemap": "^1.2.0",
     "hexo-permalink-pinyin": "^1.1.0",
